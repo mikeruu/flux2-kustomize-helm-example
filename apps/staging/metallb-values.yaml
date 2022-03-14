@@ -6,7 +6,7 @@ metadata:
 spec:
   chart:
     spec:
-      version: "0.12.1"
+      version: "v0.12.1"
   test:
     enable: false
   values:
